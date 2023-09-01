@@ -1,0 +1,3 @@
+1. The project name is TaskManagement, you can open this project by using any ide and you can run this as a spring boot applicationn.
+2. This project have five Apis,You can test the Apis by using Postman or other api testing tool.
+3. In this project i used Spring boot,collection, Spring data jpa,Rest Api,mySql, and Swagger for documentation.
